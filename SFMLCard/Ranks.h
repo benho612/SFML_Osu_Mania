@@ -1,0 +1,13 @@
+//
+// Created by Ben Ho on 5/3/2023.
+//
+
+#ifndef OSUMANIA_RANKS_H
+#define OSUMANIA_RANKS_H
+enum Ranks{
+    ACES, TWOS, THREES, FOURS, FIVES, SIXS, SEVENS, EIGHTS, NINES, TENS, JACKS, QUEENS, KINGS,
+    //
+    LAST_RANK
+
+};
+#endif //OSUMANIA_RANKS_H
